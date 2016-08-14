@@ -1,5 +1,9 @@
 # ROBOT ARM MK2 Mobile Application 
 
+Mechanical design: http://www.thingiverse.com/thing:1454048
+
+![MK2](http://thingiverse-production-new.s3.amazonaws.com/renders/fd/6a/20/49/04/3ed8d51cd6f4b9dd4e7e3726ac0d3a65_preview_featured.jpg)
+
 ## Features
 
 - Connect to NRF51822 BLE Control board
