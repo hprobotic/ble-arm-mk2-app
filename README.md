@@ -22,7 +22,7 @@ Please check official react-native project for install react-native
 git clone https://github.com/genuine-engineering/ble-arm-mk2-app
 cd ble-arm-mk2-app
 npm install
-rnpm link
+npm link
 react-native run-ios
 ```
 
